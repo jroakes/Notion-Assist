@@ -168,3 +168,6 @@ tmp/
 *.md
 !README.md
 *.pdf
+
+# Claude
+.claude
