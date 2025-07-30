@@ -1,0 +1,41 @@
+================================================================================
+EXTRACTION RESULTS
+================================================================================
+
+METADATA:
+----------------------------------------
+id: 8f594dee-973f-47db-9d78-f23396414c09
+created_time: 2024-06-21T14:14:00.000Z
+last_edited_time: 2024-08-22T17:43:00.000Z
+archived: False
+url: https://www.notion.so/Check-the-structured-data-for-reviews-XXXXXXXXXXXXXX
+title: Check the structured data for reviews
+
+PROPERTIES:
+  Status: False
+  Owner: Developer
+  Priority: High
+  Comments: XXXXXXXXXXXXXX - Locations Structure Data - Google Docs
+  Item: Check the structured data for reviews
+  Assigned To: None
+
+----------------------------------------
+CONTENT:
+----------------------------------------
+## Description
+Every homepage location has some reviews on it, and the page also has structured data for reviews implemented. That's all okay. However, the problem is that the code being inserted in the structured data is not similar to the reviews that are being shown on the page.
+The structured data on https://XXXXXXXXXXXXXX.com/midatlantic/ indicates a 5-star rating review from Sandra and also mentions having another 263 reviews.
+[Image]
+However, neither the review from Sandra nor the other 263 reviews could be located on the page. This is a serious issue because Google could detect this as a kind of black hat technique in the future.
+[Image]
+Ideally, we should insert all reviews into the structured data, or at least the most recent ones, and also inform on the webpage the number of reviews, using something like "click here to see the other 263 reviews.
+# Recommendations
+[ ] LOCOMOTIVE to provide a more comprehensive guide, along with examples, for implementing Structured Data.
+
+================================================================================
+
+SUMMARY:
+- Content length: 988 characters
+- Extracted at: 2025-07-30 16:00:40.721870+00:00
+- Source URL: https://www.notion.so/locomotiveagency/Check-the-structured-data-for-reviews-XXXXXXXXXXXXXX?source=copy_link
+- Errors encountered: 0
